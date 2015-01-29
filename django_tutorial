@@ -1,0 +1,9 @@
+enter django shell
+python manage.py shell
+from directory.file[.py] import ClassName
+
+Question.objects.all() // fetch all from question DB
+
+
+reorder input fields from admin section
+-define class and define the fields or fieldset properties
