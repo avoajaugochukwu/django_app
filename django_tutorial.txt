@@ -1,0 +1,14 @@
+database quering 
+
+name_of_class_model.objects.get|all|filter|()
+get=> get only one value or fail
+all=> returns all values
+filter=> returns selected range of values
+
+
+Database returns list of objects and this objects are dictionaries
+Views return objects -- objects as dictionaries
+in your template files you can iterate
+
+
+question['text'] is question.text in django accessing dictionaries
